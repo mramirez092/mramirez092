@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Miguel Ramirez</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 
-<img align="right" alt="Coding" width="400px" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzVrMTgxYTFzajRrOGZmNW05NWNrb2VpMDR0czNydHQ2a3lqZTg4ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gCPvobhbCxitDmuBkM/giphy.gif" />
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=n0ct4&label=Profile%20views&color=0e75b6&style=flat" alt="n0ct4" /> </p>
 
 <p align="left"> <a href="https://twitter.com/__mrzz22" target="blank"><img src="https://img.shields.io/twitter/follow/__mrzz22?logo=twitter&style=for-the-badge" alt="__mrzz22" /></a> </p>
-
-- 🌱 I’m currently learning **Cybersecurity and Offensive Python**
 
 - 💬 Ask me about **Frontend or Backend**
 
